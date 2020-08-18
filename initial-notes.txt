@@ -1,0 +1,11 @@
+BASICS
+	console.log()
+	
+VARIABLES
+	assigning
+	operators
+	
+	
+STRINGS
+	concatenation
+	
