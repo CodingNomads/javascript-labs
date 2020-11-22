@@ -3,21 +3,20 @@ function getRandomNumber(){
 }
 
 /**
- * The function above is a random number generator.
- * It generates a number between 1 and 10.
- * Don't worry about how it works, its just a tool to practice with.
- * Do not modify the function, only modify anything below this comment
+ * The function above is a random number generator. It generates a number
+ * between 1 and 10. Don't worry about how it works, its just a tool to practice
+ * with. Do not modify the function, only modify anything below this comment
  * block.
- * 
+ *
  * The variable defined below becomes a random number between 1 and 20.
  *
- * With the HTML loaded and the console open refresh the browser (F5)
- * various times and look at the console.
- * 
+ * With the HTML loaded and the console open refresh the browser (F5) various
+ * times and look at the console.
+ *
  * Once you have seen how it works, you can delete the code below.
- * 
+ *
  * Then do the following
- * 
+ *
  *      1. Create 3 variables, one with a random number between 1 and 100
  *         called "age", one initialized to 0 called "price" amd one,
  *         with an empty string ("") called "fare".
@@ -30,11 +29,11 @@ function getRandomNumber(){
  *         of the fare to the appropriate variables.
  *      4. Log a message to the console with a message like: "You pay the
  *         young person fare, that will be 5 dollars, please."
- * 
+ *
  * Once you have this working, see if you can implement a way to give each
- * passenger a 1 in 10 chance of going free, and modify the message
- * with something like "Lucky you! Today you get to ride free of charge."
- * 
+ * passenger a 1 in 10 chance of going free, and modify the message with
+ * something like "Lucky you! Today you get to ride free of charge."
+ *
  */
 
 let randomNumber = getRandomNumber() + getRandomNumber()
