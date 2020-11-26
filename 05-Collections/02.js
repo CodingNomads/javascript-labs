@@ -1,4 +1,4 @@
-// This array is made up of lengths in Cm
+// This array is made up of lengths in Centimeters
 lengths = [
     231, 432, 342, 543, 678, 756, 543, 654, 109, 239, 349,
     654, 323, 573, 432, 345, 549, 943, 999, 111, 100, 934,
@@ -11,6 +11,8 @@ lengths = [
  * 2. Use another for loop to log the average length in cm and inches. Log the
  *    result with string interpolation. For example, "The average length in cm
  *    is ___ , which is ___ in inches"
+ * 
+ * NOTE  - Just copy paste, not doing any importing 
  */
 
 

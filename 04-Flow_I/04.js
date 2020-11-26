@@ -16,8 +16,8 @@
  *    "square root javascript".
  *
  * 3. Research and write a functions to convert
- *      - inches to cm (inchToCm)
- *      - cm to inches (CmToInch)
+ *      - inches to centimeters (inchToCm)
+ *      - centimeters to inches (CmToInch)
  *      - miles to kilometers (MToKm)
  *      - kilometers to miles (KmToM)
  *
