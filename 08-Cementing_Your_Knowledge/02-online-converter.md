@@ -1,12 +1,10 @@
-Remember the temperature conversion stuff you have already coded, now is your chance to make that into a working web page!
-
-Your challenge, make an online temperature converter.
+Remember all the different conversion functions that you have already coded, now is your chance to make that into a working web page, or, more rightly said, a single page application. That's right, you will cram as much functionality as you can into a single page.
 
 ## Recommended steps
 
-- Create a new folder and git hub project and copy over your temperature converter code.
-- With a piece of paper, sketch out what you want your web page to look like, where the temperature is inserted, how you choose your units, and where you see the output. Get a feel for how you want it to look on the page, how big the text is etc.
-- Sketch out the basic structure of your HTML. First draw a box for the body, then for the main divisions of the page, and subsequent divisions until you reach your text boxes. Start thinking about the `id` names you will give these divisions.
+- Create a new folder and git hub project and copy over your converter functions.
+- With a piece of paper, sketch out what you want your web page to look like, where the values are inserted, how you choose your units, and where you see the output. Get a feel for how you want it to look on the page, how big the text is, how you will organize the different conversion formulae, etc.
+- Sketch out the basic structure of your HTML on paper. First draw a big box for the body where everything fits, then for the main divisions of the page, and subsequent divisions until you reach your text boxes. Start thinking about the `id` names you will give these divisions.
 - Sketch out what the JavaScript will need to do and how you will handle different conversion functions and how the website will identify which function it wants to use.
 - Create a Code Pen to see what things are looking like without having to save and refresh a browser.
 - Built out your basic HTML and CSS.

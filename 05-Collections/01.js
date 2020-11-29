@@ -1,5 +1,3 @@
-
-
 /**
  * 1. Create an array of strings of the names of items in the room you are sitting
  *    in. For example "chair", "keyboard" etc
