@@ -27,7 +27,7 @@
  *    that have the category "Gear and Clothing".
  */
 
-[
+let expenses = [
   [
     "Date",
     "Description",

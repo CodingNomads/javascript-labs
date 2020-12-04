@@ -14,6 +14,10 @@ Create a one page HTML and CSS website. Go to [this website](https://www.javascr
 - Now add in sub-headings summarizing the sections.
 - Style it in any way you want, with a separate CSS file or within the HTML itself.
 
+This course will require a fair bit of HTML and CSS knowledge so if you need, take this free course:
+
+https://www.khanacademy.org/computing/computer-programming/html-css
+
 ## 3 Dev Tools
 
 Set a timer for 20 minutes and explore some websites with the Dev Tools open. Just click around and see what stuff does. Have a look at the documentation if you are curious.
