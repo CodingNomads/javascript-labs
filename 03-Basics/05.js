@@ -10,7 +10,8 @@
  *      7. One with the number of today's year.
  *      8. One with your age.
  * 
- * Using the variables created, use console.log to output:
+ * Using the variables created, with both concatenation and interpolation use
+ * console.log to output:
  *      1. A greeting to your friend
  *      2. A greeting to your family member
  *      3. A greeting to your friend stating today's date and month
