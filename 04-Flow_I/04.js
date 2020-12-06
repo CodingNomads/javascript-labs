@@ -9,11 +9,8 @@
  * 2. Research and write a function that uses the pythagorean formula to get the
  *    length of the hypotenuse of a right angled triangle. It should take in two
  *    arguments, the two shorter sides of a triangle, and return the longest
- *    side. Call the function "pythagoras". The code below should work.
- *
- *    You may need to research how to square a number and also how to find the
- *    square root of a number. Try and Google "square number javascript" and
- *    "square root javascript".
+ *    side. Call the function "pythagoras". After writing your function the code
+ *    below should work.
  *
  * 3. Research and write a functions to convert
  *      - inches to centimeters (inchToCm)

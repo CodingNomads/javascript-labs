@@ -1,4 +1,4 @@
-This is a supplementary lesson to get you geared up for the labs to come by walking you through a lab.
+Things are now getting interesting! This is a supplementary lesson to get you geared up for the labs to come. This is a walk through of a very common programming task that you will be doing many times and practicing in many forms in the labs to come.
 
 Say you have this temperature data in Fahrenheit:
 
@@ -64,22 +64,23 @@ let listOfTempsInF = [
 ];
 ```
 
-Now build a for loop that at each iteration, references a new item in the array:
+Now build a for loop that at each iteration, references and logs the new temperature:
 
 ```javascript
 for (let i = 0; i < listOfTempsInF.length; i++) {
-  const element = listOfTempsInF[i];
-  // Convert temperature
+  let element = listOfTempsInF[i];
+  element = fToC(element)
+  console.log(element + "C")
 }
 ```
 
-Make use of the temperature function you defined previously to process all the items in the array.
+In this script, copy in the function fToC that you have defined previously.
 
 ### Getting stuck
 
 You will inevitably get stuck at some point!
 
-If you get stuck, first try and identify exactly where you are getting stuck. Remember <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">the rubber duck</a>. This state of stuck-ness is something you will become intimately familiar with throughout your career. Veteran programmers get stuck too, what makes them good is their ability to become unstuck, and rubber ducking is a great way to do that. Reading documentation is also a sure fire way to understand the problem.
+If you get stuck, here or in subsequent labs, first try and identify exactly where you are getting stuck. Remember <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">the rubber duck</a>. This state of stuck-ness is something you will become intimately familiar with throughout your career. Veteran programmers get stuck too, what makes them good is their ability to become unstuck, and rubber ducking is a great way to do that. Reading documentation is also a sure fire way to understand the problem.
 
 Here are a few common reasons for the state of stuck-ness:
 

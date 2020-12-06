@@ -1,12 +1,12 @@
 /**
- * 1. Create an array of strings of the names of items in the room you are sitting
- *    in. For example "chair", "keyboard" etc
- * 2. Now think of some drawers or shelves or boxes that you have nearby. Make a
- *    array with a sub-array for each drawer or box, and array 5 things in each. Do
- *    this for 3 boxes. You should have a two dimensional array.
+ * 1. Create an array of strings with the names of some items in the room you
+ *    are sitting in right now. For example "chair", "keyboard" etc
+ * 2. Now think of 3 drawers or shelves or boxes that you have nearby. Make an
+ *    array with a sub-array for each drawer or box, and add 5 things in each
+ *    sub-array. Do this for 3 boxes. You should have a two dimensional array.
  * 3. Pick 5 things from the two dimensional array just created, and log them to
  *    the console using array referencing.
- * 4. Use a for loop to build a array of the numbers from 1 to 100.
+ * 4. Use a for loop to create a array of the numbers from 1 to 100.
  * 5. Use another for loop to go through the array of numbers just created and
  *    log the sum of all the numbers.
  * 6. Use the random number generator from previous labs and another for loop to

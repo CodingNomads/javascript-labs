@@ -1,6 +1,6 @@
 /**
- * You will probably want to modify the html file to mute the output of certain
- * exercises, this one for instance, will generate many lines of output.
+ * You may want to modify the html file to mute the output of certain exercises
+ * in future, this one for instance, will generate many lines of output.
  *
  * 1. Create a for loop that will log all the numbers between 5 and 1000.
  *    incrementing in 5s. So the output would start "5, 10, 15, 20 .."

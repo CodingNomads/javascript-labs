@@ -5,24 +5,26 @@ function getRandomNumber(){
 /**
  * The function above is a random number generator. It generates a number
  * between 1 and 10. Don't worry about how it works, its just a tool to practice
- * with. Do not modify the function, only modify anything below this comment
- * block.
+ * with right now. Do not modify the function, only modify anything below this
+ * comment block.
  *
- * The variable defined below becomes a random number between 1 and 20.
+ * Using the random number generator, the variable defined below becomes a
+ * random number between 1 and 20.
  *
- * With the HTML loaded and the console open refresh the browser (F5) various
- * times and look at the console.
+ * With the HTML file from this folder (test.html) loaded in Chrome and the
+ * console open refresh the browser (F5) various times and look at the console.
+ * Notice how the number is different each time!
  *
  * Once you have seen how it works, you can delete the code below.
  *
  * Then do the following
  *
  *      1. Create 3 variables, one with a random number between 1 and 100
- *         called "age", one initialized to 0 called "price" amd one,
+ *         called "age", one initialized to 0 called "price" and one
  *         with an empty string ("") called "fare".
- *      2. Write an if, else if, and else block to simulate bus ticket
- *         cost. That is, something like: Under 5s go free, under 13 pay
- *         child fare, under 21 pay teenager fare, under 30s pay young
+ *      2. Write some conditional statements to simulate bus ticket
+ *         cost. Something like: Under 5s go free, under 13s pay
+ *         child fare, under 21s pay teenager fare, under 30s pay young
  *         person fare, under 65s pay adult fare, and over 65s pay
  *         pensioner fare.
  *      3. Within each condition, assign the price to be paid and the name

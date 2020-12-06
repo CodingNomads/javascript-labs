@@ -13,9 +13,12 @@
  *
  * Depending on how you approach this, you may end up using methods not taught
  * in the course so far, this is ok. If you find it on the web and it makes
- * sense to you, use it!
+ * sense to you, use it! After all, there are many ways to do the same thing in
+ * programming, especially in JavaScript, none are inherently wrong! Efficiency
+ * shouldn't be your first concern, just get it working first! Clarity and
+ * legibility are important though, make it clear what you are doing and produce
+ * readable code, you will thank yourself for it later!
  */
-
 
 stores =  [
     [ '1003CA', 'Appliance Direct', 'CA', 'West', 'Concord' ],
