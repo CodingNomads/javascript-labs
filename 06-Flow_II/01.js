@@ -1,22 +1,12 @@
 /**
- * Now that you can "try" executing code and "catch" errors, implement a try
- * catch block into your temperature converter that processes a similar large
- * list of objects. You will find another version of the weather.json file in
- * this folder, except that this version has mistakes. There are some spelling
- * errors and format errors. Your script should ignore these entries. Try
- * running your existing script and see what happens. Once you get an error, try
- * and implement the try-catch block somewhere in your code to effectively skip
- * over that entry.
- *
- * Your error proof function should run the following commands while outputting:
- *  1. The averages.
- *  2. The number of entries that were not counted due to errors.
+ * This lab is OPTIONAL
+ * 
+ * Research task If you are curious about another type of for loop, check out
+ * the for ... in loop. See if you can find it in the MDN documentation and
+ * understand how it works. If you can come up with your own working example,
+ * choose a task which you have already completed, something involving an array
+ * and implement it with for ... in.
  */
 
 
 
-let vancouverData = getAvgTemp("Vancouver", "C");
-let jerusalemData = getAvgTemp("Jerusalem", "F");
-
-console.log(vancouverData);
-console.log(jerusalemData);
