@@ -15,6 +15,8 @@ Remember all the different conversion functions that you have already coded, now
 
 ## Stretch Goals, for The Brave
 
+Pick two of these:
+
 - What other conversion tasks are there? Maybe add in a tool to convert centimeters to inches. Or Hours, Minutes and seconds to milliseconds. How can you integrate them into your site.
 - Make a calculator to live on the same page. This can be a project in and of itself. You may wish to create a new project for the calculator, and then lift it and paste it into the conversion site.
 - Integrate a trigonometry calculator. There are many variations, but you could for example have a triangle drawn on screen, and have the user input the two short sides and for the page to display the length of the hypotenuse.
