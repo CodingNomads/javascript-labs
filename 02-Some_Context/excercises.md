@@ -6,21 +6,22 @@ Create a new GitHub repository and give it a name, something along the lines of 
 
 ## Build a simple static website
 
--  To refresh your HTML and CSS knowledge. Create a one page HTML and CSS website. Go to [this website](https://www.javascriptinstitute.org/javascript-tutorial/history-of-javascript/) and use the article there for your text content. If you are new to HTML and CSS, best to take a short course like this one:
+To refresh your HTML and CSS knowledge. Create a one page HTML and CSS website. Go to [this website](https://www.javascriptinstitute.org/javascript-tutorial/history-of-javascript/) and use the article there for your text content. If you are new to HTML and CSS, best to take a short course like this one:
 
-    > https://www.khanacademy.org/computing/computer-programming/html-css
+> https://www.khanacademy.org/computing/computer-programming/html-css
 
-    You can take this in parallel to this course and skip over this exercise if you are going down this route. Just make sure its complete before you get to the sections on the DOM in the last 25% of the course.
+You can take this in parallel to this course and skip over this exercise if you are going down this route. Just make sure you complete at least until "CSS text properties" before you get to the sections on the DOM in the last 25% of the course. Ideally, also finish the section entitled "CSS Layout" as this will really open the door for you in regards to making your websites look the way you envision them. Play the videos at 1.5x speed if you want to take it a bit quicker!
 
-- Iif you haven't already, identify some good reference sources for HTML and CSS. MDN and W3Schools are good bets. You will definitely need to consult these sources, as you will need to search Google and StackOverflow to gain info.
+If you haven't already, identify some good reference sources for HTML and CSS. MDN and W3Schools are good bets. You will definitely need to consult these sources, as you will need to search Google and StackOverflow to gain info.
+
+Tasks:
+
 - Create a site title, a header, paragraphs, and a footer using appropriate divs.
 - Add in your content.
 - Now add in sub-headings summarizing the sections.
 - Style it in any way you want, with a separate CSS file or within the HTML itself.
 - Publish it on GitHub pages!
 
-This course will require familiarity with HTML and CSS knowledge so if you need, take this free course:
-
 ## Dev Tools
 
-Set a timer for 20 minutes and explore some websites with the Dev Tools open. Just click around and see what stuff does. Have a look at the documentation if you are curious. There will be lessons coming up in the main course with more detail.
+Set a timer for 20 minutes and explore some websites with the Dev Tools open. Just click around and see what stuff does. Have a look at the documentation if you are curious. There will be lessons coming up in the main course with more detail. If you want, the course linked above has a short section on the Dev Tools too.

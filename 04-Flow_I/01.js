@@ -8,11 +8,11 @@ function getRandomNumber(){
  * with right now. Do not modify the function, only modify anything below this
  * comment block.
  *
- * Using the random number generator, the variable defined below becomes a
+ * The variable defined below uses the random number generator to generate a
  * random number between 1 and 20.
  *
  * With the HTML file from this folder (test.html) loaded in Chrome and the
- * console open refresh the browser (F5) various times and look at the console.
+ * console open, refresh the browser (F5) various times and look at the console.
  * Notice how the number is different each time!
  *
  * Once you have seen how it works, you can delete the code below.
@@ -33,8 +33,10 @@ function getRandomNumber(){
  *         young person fare, that will be 5 dollars, please."
  *
  * Once you have this working, see if you can implement a way to give each
- * passenger a 1 in 10 chance of going free, and modify the message with
- * something like "Lucky you! Today you get to ride free of charge."
+ * passenger a 1 in 10 chance of going free, regardless of age, and modify the
+ * message with something like "Lucky you! Today you get to ride free of
+ * charge." For bonus points, if the person would ride free anyway, make sure it
+ * doesn't log the "Lucky you!" message!
  *
  */
 

@@ -1,4 +1,4 @@
-Remember all the different conversion functions that you have already coded, now is your chance to make that into a working web page, or, more rightly said, a single page application. That's right, you will cram as much functionality as you can into a single page.
+Remember all the different conversion functions that you have already coded?  Now is your chance to make that into a working web page, or, more rightly said, a single page application. In this mini-project you will cram as much functionality as you can into a single page.
 
 ## Recommended steps
 
@@ -12,13 +12,4 @@ Remember all the different conversion functions that you have already coded, now
 - You may have to re-write or re-factor a lot of your JavaScript depending on what design you have gone for.
 - Get a Minimum Viable Product (MVP) working. That is a very basic and ugly version of the page, but something that works. Then iterate over it making it better and better.
 - Publish it on GitHub Pages and show the world!
-
-## Stretch Goals, for The Brave
-
-Pick two of these:
-
-- What other conversion tasks are there? Maybe add in a tool to convert centimeters to inches. Or Hours, Minutes and seconds to milliseconds. How can you integrate them into your site.
-- Make a calculator to live on the same page. This can be a project in and of itself. You may wish to create a new project for the calculator, and then lift it and paste it into the conversion site.
-- Integrate a trigonometry calculator. There are many variations, but you could for example have a triangle drawn on screen, and have the user input the two short sides and for the page to display the length of the hypotenuse.
-- Make a game to practice times tables. This can also be a project in and of itself.
-- You can bring together all math related tools you might make into one page or various interlinked pages. You might even find these useful about your day to day life!
+- Get some feedback and jot down some things you would like to improve and then implement it!

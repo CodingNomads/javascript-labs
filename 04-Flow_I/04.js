@@ -1,16 +1,16 @@
 /**
  * You have already made some functions for temperatures. Now you will make some
- * more
+ * more functions!
  *
  * 1. Research the formula for conversions to and from Kelvin. Write a KtoC,
  *    CtoK, FtoK and a KtoF function. Be sure to return the value so that the
- *    code below functions.
+ *    code below functions without error.
  *
  * 2. Research and write a function that uses the pythagorean formula to get the
  *    length of the hypotenuse of a right angled triangle. It should take in two
  *    arguments, the two shorter sides of a triangle, and return the longest
  *    side. Call the function "pythagoras". After writing your function the code
- *    below should work.
+ *    below should work without error.
  *
  * 3. Research and write a functions to convert
  *      - inches to centimeters (inchToCm)
@@ -19,6 +19,18 @@
  *      - kilometers to miles (KmToM)
  *
  */
+
+// Write your code here:
+
+
+
+
+
+
+
+
+
+// Do not modify anything below this line
 
 console.log(KtoC(272));
 console.log(CtoK(0));

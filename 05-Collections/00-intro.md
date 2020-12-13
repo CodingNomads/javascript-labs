@@ -1,4 +1,4 @@
-Things are now getting interesting! This is a supplementary lesson to get you geared up for the labs to come. This is a walk through of a very common programming task that you will be doing many times and practicing in many forms in the labs to come.
+Things are now getting interesting! This is a supplementary lesson to get you geared up for the labs to come. This is a walk through of a very common programming task that you will be doing many times and practicing in many forms!
 
 Say you have this temperature data in Fahrenheit:
 
@@ -56,7 +56,7 @@ let temp4 = 94;
 
 That would take a lot of repetitive typing, definitely something that you should _always_ avoid as a programmer.
 
-Better to put it into an array! If you are reading this then it should be from Visual Studio Code. Create a new `.js` file in this folder with the same name as this file except with the JavaScript extension - `00-intro.js`. Go to [this website](https://convert.town/column-to-comma-separated-list), and copy the data above and to convert it into a comma separated list. Then add the necessary syntax to make this into an array in your new file:
+Better to put it into an array! If you are reading this then it should be from Visual Studio Code. Create a new `.js` file in this folder with the same name as this file except with the JavaScript extension - `00-intro.js`. Go to [this website](https://convert.town/column-to-comma-separated-list), and use it to convert the data above into a comma separated list. Then add the necessary syntax to make this into an array in your new file:
 
 ```javascript
 let listOfTempsInF = [
@@ -74,11 +74,9 @@ for (let i = 0; i < listOfTempsInF.length; i++) {
 }
 ```
 
-In this script, copy in the function fToC that you have defined previously.
+In this script, copy in the function fToC that you have defined previously. Once you have it, open the test.html file, it should automatically be outputting the logs for your new script. If it is not, check that the file name is correct.
 
 ### Getting stuck
-
-You will inevitably get stuck at some point!
 
 If you get stuck, here or in subsequent labs, first try and identify exactly where you are getting stuck. Remember <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">the rubber duck</a>. This state of stuck-ness is something you will become intimately familiar with throughout your career. Veteran programmers get stuck too, what makes them good is their ability to become unstuck, and rubber ducking is a great way to do that. Reading documentation is also a sure fire way to understand the problem.
 
