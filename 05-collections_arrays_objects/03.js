@@ -11,13 +11,18 @@
  * 4. Log the number of each type of store. I.e. 5 Targets, 10 K-Marts - log
  *    these with a presentation string. I.e. "There are __ K-Marts in total."
  *
- * Depending on how you approach this, you may end up using methods not taught
- * in the course so far, this is ok. If you find it on the web and it makes
- * sense to you, use it! After all, there are many ways to do the same thing in
- * programming, especially in JavaScript, none are inherently wrong! Efficiency
- * shouldn't be your first concern, just get it working first! Clarity and
- * legibility are important though, make it clear what you are doing and produce
- * readable code, you will thank yourself for it later!
+ * Efficiency shouldn't be your first concern, just get it working first!
+ * Clarity and legibility are important though,
+ * make it clear what you are doing and produce readable code,
+ * you will thank yourself for it later!
+ * 
+ * If you are Googling around, you are sure to find solutions using
+ * arrow functions, do NOT use them yet! They will be covered later.
+ * Arrow functions are `.forEach()` and `.filter()` they are distinguished by
+ * the `=>` syntax.
+ * 
+ * Use normal for loops and bear in mind that you can use as many variables as
+ * you like.
  */
 
 stores =  [
