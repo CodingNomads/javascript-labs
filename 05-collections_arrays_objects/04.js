@@ -12,9 +12,12 @@
  *    convert if needed.
  * 3. Output to the console all the temperatures in Jerusalem in Fahrenheit,
  *    convert if needed.
- * 4. Get the average temperatures for Vancouver and Jerusalem in both Celsius
+ * 4. Instead of outputting all the values as you come across them, build an
+ *    array containing all the values, and then log the whole array at the end.
+ *    Do this for both 2. and 3.
+ * 5. Get the average temperatures for Vancouver and Jerusalem in both Celsius
  *    and Fahrenheit and output them to the console.
- * 5. Write a function that will return a chosen city's average temperature in
+ * 6. Write a function that will return a chosen city's average temperature in
  *    either fahrenheit or celsius defined by two parameters as shown in the
  *    code below.
  *
