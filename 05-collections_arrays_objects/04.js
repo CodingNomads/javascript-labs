@@ -17,9 +17,17 @@
  *    Do this for both 2. and 3.
  * 5. Get the average temperatures for Vancouver and Jerusalem in both Celsius
  *    and Fahrenheit and output them to the console.
+ * 
+ * Finally, one last one to bring every thing together! You may want to write
+ * this function in a new file, or copy this file so you can rearrange and
+ * refactor the existing code from the questions above into your function.
+ * 
  * 6. Write a function that will return a chosen city's average temperature in
  *    either fahrenheit or celsius defined by two parameters as shown in the
  *    code below.
+ * 
+ * This will be challening and will test you on many of thie things you have
+ * learned so far!
  *
  */
 
