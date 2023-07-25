@@ -21,10 +21,10 @@
  * 3. Output the total difference in each account after all transactions. So if
  *    $100 was deposited into the account and $50 spent, then the total change
  *    would be $50.
- * 4. Create a new array that only has the date, description, and amount of rows
- *    that have the category "Eating Out".
- * 5. Create another array with only the date, description and amount of rows
- *    that have the category "Gear and Clothing".
+ * 4. Create a new array where each row only has the "date", "description", and "amount"
+ *    fields of rows that have the category "Eating Out".
+ * 5. Create another array where each row only has the "date", "description", and "amount"
+ *    fields of rows that have that have the category "Gear and Clothing".
  */
 
 let expenses = [
